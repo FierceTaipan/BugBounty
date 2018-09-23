@@ -1,1 +1,26 @@
-# BugBountyPlatforms
+**Bugcrowd**
+https://www.bugcrowd.com/
+
+**Hackerone**
+https://www.hackerone.com/
+
+**Synack**
+https://www.synack.com/
+
+**Japan Bug bounty Program**
+https://bugbounty.jp/
+
+**Cobalt**
+https://cobalt.io/
+
+**Zerocopter**
+https://zerocopter.com/
+
+**Hackenproof**
+https://hackenproof.com/
+
+**BountyFactory**
+https://bountyfactory.io
+
+**Bug Bounty Programs List**
+https://www.bugcrowd.com/bug-bounty-list/
