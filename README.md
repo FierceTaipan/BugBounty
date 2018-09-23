@@ -24,3 +24,8 @@ https://bountyfactory.io
 
 **Bug Bounty Programs List**
 https://www.bugcrowd.com/bug-bounty-list/
+
+***
+
+**Awesome Bug Bounty**
+https://github.com/djadmin/awesome-bug-bounty
